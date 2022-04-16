@@ -1,0 +1,1 @@
+rootProject.name = "me.brisson.ktor-api"
